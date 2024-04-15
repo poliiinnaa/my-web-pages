@@ -21,3 +21,40 @@ ol {
 ul {
     list-style-type: square;
 }
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+/* css for second page */
+
+body.secondpage {
+    background-color: beige;
+    color: black;
+}
+h1.secondpage {
+    border-style: solid;
+    text-align: center;
+    margin: 10px;
+
+}
+p.secondpage {
+background-color: rgb(143, 112, 117);
+border-style: solid;
+border-color: black;
+margin: 10px;
+}
+figure {
+    margin: 5px;
+}
+label {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+img.secondpage {
+    margin: 5px;
+}
+progress {
+margin-left: 10px;
+    margin-top: 15px;
+}
