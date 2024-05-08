@@ -136,3 +136,13 @@ text-decoration: none;
     color: black;
     margin: 10px;
 }
+.button{
+    width: 200px;
+
+}
+.polina {
+    background-color: rgb(209, 32, 32);
+    color: rgb(159, 147, 147);
+    margin: 10px;
+    width: auto;
+}
