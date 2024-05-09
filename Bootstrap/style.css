@@ -1,0 +1,35 @@
+body {
+  height: 100vh;
+}
+
+.polina {
+  border: 2px solid white;
+}
+.rivi {
+  background-color: black;
+  height: 200px;
+}
+.rivi2 {
+  background-color: rgb(236, 226, 226);
+  height: 100px;
+}
+.kolumni {
+  border: 1px dotted white;
+  color: rgb(97, 13, 13);
+  padding: 50px;
+  margin: auto;
+}
+.img-small {
+  width: 200px;
+  margin: 10px;
+  height: 200px;
+}
+#footer {
+  border-style: none;
+  width: auto;
+  height: auto;
+  background-color: gray;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+}
